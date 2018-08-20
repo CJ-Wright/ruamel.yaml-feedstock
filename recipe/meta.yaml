@@ -27,6 +27,7 @@ test:
     - ruamel.yaml
   downstreams:
     - conda-smithy
+    - conda
 
 about:
   home: https://bitbucket.org/ruamel/yaml
